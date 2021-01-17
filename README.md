@@ -4,7 +4,6 @@ Huge thanks to the teams behind
 Matplotlib (https://twitter.com/matplotlib)
 Tkinter 
 And Numpy.
-Ipython Jupyter notebook,
-And of course Python3!
-
+Ipython Jupyter notebook, my calculus courses,
+3 blue 1 brown, and of course Python3!
 ![alt text](https://github.com/Tavnos/Complex_Art_GUI/blob/main/welptitle.png)
