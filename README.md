@@ -1,3 +1,10 @@
 # Complex_Art_GUI
-Description coming soon... Huge thanks to the teams behind the imported packages, i will cite and credit you all in my readme when i get back to it &lt;3
+Huge thanks to the teams behind
+ the imported packages:
+Matplotlib (https://twitter.com/matplotlib)
+Tkinter 
+And Numpy.
+Ipython Jupyter notebook,
+And of course Python3!
+
 ![alt text](https://github.com/Tavnos/Complex_Art_GUI/blob/main/welptitle.png)
